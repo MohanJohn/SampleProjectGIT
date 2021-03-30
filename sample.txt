@@ -1,1 +1,2 @@
 hello this git learn class
+modification the notepad and sending to git hub
